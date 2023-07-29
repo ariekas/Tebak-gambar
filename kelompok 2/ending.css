@@ -1,0 +1,12 @@
+*{
+    background-color: #262626;
+    color: white;
+}
+
+.back {
+    position: absolute;
+    left: 50%;
+    bottom: 6%;
+}
+
+
